@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string-array name="cQuestions">
+        <item>Who invented C?</item>
+        <item>C is which type of programming language?</item>
+        <item>What is used for printing in C?</item>
+        <item>What is the extension of C header file?</item>
+        <item>What is the working of clrscr()?</item>
+    </string-array>
+    <string-array name="cOptions">
+        <item>James Gosling</item>
+        <item>Bjarne Stroustrup</item>
+        <item>Dennis Ritchie</item>
+        <item>Jet Brains</item>
+        <item>Procedural Programming</item>
+        <item>Object Oriented Programming</item>
+        <item>Both a and b</item>
+        <item>None of the above</item>
+        <item>cout</item>
+        <item>println()</item>
+        <item>printf()</item>
+        <item>out</item>
+        <item>.c</item>
+        <item>.h</item>
+        <item>.hf</item>
+        <item>.hc</item>
+        <item>To clear input only</item>
+        <item>To clear screen</item>
+        <item>To clear output only</item>
+        <item>None of the above</item>
+    </string-array>
+    <string-array name="cAnswers">
+        <item>Dennis Ritchie</item>
+        <item>Procedural Programming</item>
+        <item>printf()</item>
+        <item>.h</item>
+        <item>To clear screen</item>
+    </string-array>
+
+    <string-array name="cPlusQuestions">
+        <item>Who invented C++?</item>
+        <item>C++ is which type of programming language?</item>
+        <item>Default value of static variable is___</item>
+        <item>Reusability of code can be achieved through</item>
+        <item>What is the default visibility mode of class members</item>
+    </string-array>
+    <string-array name="cPlusOptions">
+        <item>James Gosling</item>
+        <item>Bjarne Stroustrup</item>
+        <item>Dennis Ritchie</item>
+        <item>Jet Brains</item>
+        <item>Procedural Programming</item>
+        <item>Object Oriented Programming</item>
+        <item>Both a and b</item>
+        <item>None of the above</item>
+        <item>0</item>
+        <item>1</item>
+        <item>Garbage value</item>
+        <item>Compiler dependent</item>
+        <item>Encapsulation</item>
+        <item>Inheritance</item>
+        <item>Polymorphism</item>
+        <item>Abstraction</item>
+        <item>Public</item>
+        <item>Private</item>
+        <item>Protected</item>
+        <item>Static</item>
+    </string-array>
+    <string-array name="cPlusAnswers">
+        <item>Bjarne Stroustrup</item>
+        <item>Both a and b</item>
+        <item>0</item>
+        <item>Inheritance</item>
+        <item>Private</item>
+    </string-array>
+
+    <string-array name="javaQuestions">
+        <item>Who invented Java?</item>
+        <item>Java is which type of programming language?</item>
+        <item>Which is Irrecoverable</item>
+        <item>Which Exception occurs when a class is not found while dynamically loading a class using the class loaders?</item>
+        <item>Which is used to separate the hierarchy of the class while declaring an import statement? </item>
+    </string-array>
+    <string-array name="javaOptions">
+        <item>James Gosling</item>
+        <item>Bjarne Stroustrup</item>
+        <item>Dennis Ritchie</item>
+        <item>Jet Brains</item>
+        <item>Procedural Programming</item>
+        <item>Object Oriented Programming</item>
+        <item>Both a and b</item>
+        <item>None of the above</item>
+        <item>Error</item>
+        <item>Checked Exception</item>
+        <item>Unchecked Exception</item>
+        <item>Both b and c</item>
+        <item>ClassNotFoundException</item>
+        <item>ClassFoundException</item>
+        <item>NoClassDefFoundError</item>
+        <item>ClassDefFoundError</item>
+        <item>Package</item>
+        <item>Applet</item>
+        <item>Browser</item>
+        <item>All of the above</item>
+    </string-array>
+    <string-array name="javaAnswers">
+        <item>James Gosling</item>
+        <item>Object Oriented Programming</item>
+        <item>Error</item>
+        <item>ClassNotFoundException</item>
+        <item>Package</item>
+    </string-array>
+
+    <string-array name="kotlinQuestions">
+        <item>Who developed Kotlin?</item>
+        <item>What is the file name extension for kotlin file</item>
+        <item>Objects in kotlin are made with____</item>
+        <item>Constant variables are declared in kotlin using which variable?</item>
+        <item> Kotlin supports switch-case logic using which keyword? </item>
+    </string-array>
+    <string-array name="kotlinOptions">
+        <item>JetBrains</item>
+        <item>Dennis Ritchie</item>
+        <item>Sun MicroSystem</item>
+        <item>Bjarne Stroustrup</item>
+        <item>.k</item>
+        <item>.java</item>
+        <item>.kn</item>
+        <item>.kt</item>
+        <item>Just by calling constructor</item>
+        <item>By new operator</item>
+        <item>By object keyword</item>
+        <item>None of the above</item>
+        <item>constant</item>
+        <item>var</item>
+        <item>final</item>
+        <item>val</item>
+        <item>switch</item>
+        <item>when</item>
+        <item>case</item>
+        <item>default</item>
+    </string-array>
+    <string-array name="kotlinAnswers">
+        <item>JetBrains</item>
+        <item>.kt</item>
+        <item>Just by calling constructor</item>
+        <item>val</item>
+        <item>when</item>
+    </string-array>
+
+    <string-array name="androidQuestions">
+        <item>Android is licensed under which open source licensing license?</item>
+        <item>Although most people's first thought when they think of Android is Google, Android is not actually owned by Google. Who owns the Android platform?</item>
+        <item>What was the first phone released that ran the Android OS?</item>
+        <item>Android tries hard to ______________   low-level components, such as the software stack, with interfaces so that vendor-specific code can be managed easily.</item>
+        <item>When did Google purchase Android?</item>
+    </string-array>
+    <string-array name="androidOptions">
+        <item>GNU's GPL</item>
+        <item>OSS</item>
+        <item>Apache/MIT</item>
+        <item>Sourceforge</item>
+        <item>Oracle Technology</item>
+        <item>Dalvik</item>
+        <item>The above statement is incorrect and Android is owned by Google</item>
+        <item>Open Handset Alliance</item>
+        <item>Google gPhone</item>
+        <item>T-Mobile G1</item>
+        <item>Motorola Droid</item>
+        <item>HTC Hero</item>
+        <item>Confound</item>
+        <item>Absract </item>
+        <item> Modularize </item>
+        <item>Compound</item>
+        <item>2005 </item>
+        <item>2008</item>
+        <item>2010</item>
+        <item>2002</item>
+    </string-array>
+    <string-array name="androidAnswers">
+        <item>Apache/MIT</item>
+        <item>Open Handset Alliance</item>
+        <item>T-Mobile G1</item>
+        <item>Absract </item>
+        <item>2005 </item>
+    </string-array>
+</resources>

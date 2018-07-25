@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#f1c40f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorSunflower">#f1c40f</color>
+    <color name="colorOrange">#f39c12</color>
+    <color name="colorCarrot">#e67e22</color>
+    <color name="colorPumpkin">#d35400</color>
+    <color name="colorAlizarin">#A84410</color>
+    <color name="colorLight">#ECF0F1</color>
+    <color name="colorBack1">#D0D0D0</color>
+    <color name="colorQuestion">#5E2C0B</color>
+    <color name="colorOptions">#0077C0</color>
+    <color name="colorBack2">#FFDCB5</color>
+    <color name="colorButton">#C86400</color>
+</resources>
